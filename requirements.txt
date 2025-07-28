@@ -1,6 +1,7 @@
-streamlit==1.35.0
-numpy
-pillow
-matplotlib
-scikit-learn
-opencv-python
+streamlit==1.26.1
+tensorflow==2.12.0
+numpy==1.24.3
+pillow==9.5.0
+torch==2.0.1
+torchvision==0.15.2
+
